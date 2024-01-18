@@ -1,0 +1,17 @@
+O;Black
+b;NotBlack
+b;NotBlack
+Y;NotBlack
+j;NotBlack
+$;Black
+,;NotBlack
+%;NotBlack
+Z;NotBlack
+$;Black
+Z;NotBlack
+Y;NotBlack
+,;NotBlack
+%;NotBlack
+j;NotBlack
+O;Black
+6

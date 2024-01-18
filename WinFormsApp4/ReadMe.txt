@@ -1,0 +1,1 @@
+C:\Users\HP\Desktop\ворд\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows   -   Путь, где лежат файлы сохранения
